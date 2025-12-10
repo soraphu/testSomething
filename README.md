@@ -1,11 +1,16 @@
-# Test
-## Test
-### Test
+# Test - 1
+## Test - 2 
+### Test - 3
 
 ---
 
-## **Information**
-| First-Name | Last-Name | Year of Birth | Religion | Profile |
-|------------|-----------|------------|-------------|---------|
-| Soraphu    | Thongjun  | 03/07/2003 | Buddish     | [**Github**](https://github.com/soraphu) |
+## INFORMATION
+**First-Name** : Soraphu
 
+**Last-Name** : Thongjun 
+
+**Year-of-Birth** : 3 July 2003
+
+**Religion** : Buddish
+
+**Profile** : [**Github**](https://github.com/soraphu)
