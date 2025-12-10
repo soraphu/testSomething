@@ -9,7 +9,7 @@
 
 **Last-Name** : Thongjun 
 
-**Year-of-Birth** : 3 July 2003
+**Year-of-Birth** : 3 JULY 2003
 
 **Religion** : Buddish
 
